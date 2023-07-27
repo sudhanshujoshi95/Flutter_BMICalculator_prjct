@@ -1,0 +1,640 @@
+{
+   "checksum": "3bb43166c255fad24ed4c501e7e45eba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13268812776136758",
+            "date_last_used": "0",
+            "guid": "19bd105a-efd8-42e8-9008-e37514218ef6",
+            "id": "8",
+            "name": "Online C++ Compiler - Online C++ Editor - Run C++ Online - Online C++ Runner",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.jdoodle.com/online-compiler-c++/"
+         }, {
+            "date_added": "13269597748895272",
+            "date_last_used": "0",
+            "guid": "07685529-dfd0-40ef-9c9d-db659fcafc92",
+            "id": "9",
+            "name": "Disney+ Hotstar - Watch TV Shows, Movies, Live Cricket Matches & News Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hotstar.com/in"
+         }, {
+            "date_added": "13270046634350115",
+            "date_last_used": "0",
+            "guid": "0f2875ab-0c1a-4b6b-aecc-7179802042d7",
+            "id": "10",
+            "name": "Project-based learning platform for developers | Crio.Do | Build internship-grade projects in a real developer environment and accelerate your full stack or backend developer career with a job-ready project portfolio.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.crio.do/"
+         }, {
+            "date_added": "13278359291003811",
+            "date_last_used": "13312125955111520",
+            "guid": "56eb1477-77ef-4d15-882b-262ca3c4cf24",
+            "id": "11",
+            "name": "My Drive - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13278359408099810",
+            "date_last_used": "13332146201113849",
+            "guid": "a0d5e87f-0222-415f-9633-6625ffbd6b3c",
+            "id": "12",
+            "name": "Inbox (2,875) - sudhanshujoshi95@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?tab=cm#inbox"
+         }, {
+            "date_added": "13307951661750404",
+            "date_last_used": "13316537169109205",
+            "guid": "1167a8bb-86c1-46cc-8d77-0982eb79ddc5",
+            "id": "13",
+            "name": "(1111) YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13271428347261688",
+            "date_last_used": "13323678476260937",
+            "guid": "e09fe826-8340-4108-97de-47e6bbcfbb1c",
+            "id": "14",
+            "name": "Online C++ Compiler - OnlineIDE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.online-ide.com/online_c++_compiler"
+         }, {
+            "date_added": "13316621725075211",
+            "date_last_used": "13321030582677756",
+            "guid": "81a69461-0441-4a6e-b128-5e9c043f6fca",
+            "id": "15",
+            "name": "Workspace Medoc Home",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.notion.so/medoc/Medoc-Home-01eb11dd9b7f45efaf703a33ddb43196"
+         }, {
+            "date_added": "13276622932498304",
+            "date_last_used": "13331804693953276",
+            "guid": "6376190d-4e9b-4ba6-a46a-8fe9c646d47f",
+            "id": "16",
+            "name": "My Courses | Perfect E Learning Private Limited",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://perfectelearning.com/home/my_courses"
+         }, {
+            "date_added": "13309097204060947",
+            "date_last_used": "13330325981204394",
+            "guid": "3907f24b-fbdd-4ab3-8edc-4800000bae54",
+            "id": "17",
+            "name": "github_sudhanshujoshi95",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/sudhanshujoshi95"
+         }, {
+            "date_added": "13269703349824000",
+            "date_last_used": "0",
+            "guid": "cc03103a-93e2-44ea-a562-86a96929588e",
+            "id": "18",
+            "name": "HTML Entities",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/html/html_entities.asp"
+         }, {
+            "date_added": "13276699996737984",
+            "date_last_used": "0",
+            "guid": "26776394-9eaf-48c1-b765-aec9b04d289d",
+            "id": "19",
+            "name": "FS #161",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://piazza.com/class/kttng1hwx406kq"
+         }, {
+            "date_added": "13278359616542674",
+            "date_last_used": "0",
+            "guid": "fba58738-6d8c-47e1-b8ac-f674536ab3a6",
+            "id": "20",
+            "name": "Coding Blocks IDE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ide.codingblocks.com/"
+         }, {
+            "date_added": "13279870181224815",
+            "date_last_used": "13324070845925264",
+            "guid": "1abc3c79-ff86-49ec-8a79-09e6ea6558b0",
+            "id": "21",
+            "name": "(1) sudhanshu joshi (@sudhanshu_j95) / Twitter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://twitter.com/sudhanshu_j95"
+         }, {
+            "date_added": "13281173935325089",
+            "date_last_used": "0",
+            "guid": "f20a8932-d2c1-4c59-a58b-d7dee2670f7a",
+            "id": "22",
+            "name": "Track scholarship application status | Buddy4Study",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.buddy4study.com/myprofile/application-status"
+         }, {
+            "date_added": "13281178139311154",
+            "date_last_used": "0",
+            "guid": "ab80779b-c442-4845-8116-6fc89197f9c6",
+            "id": "23",
+            "name": "ES Examination",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://liveexam.edusols.com/index.php"
+         }, {
+            "date_added": "13287410831701909",
+            "date_last_used": "0",
+            "guid": "a40373f0-f66e-4260-964a-ac221f97b0fc",
+            "id": "24",
+            "name": "Typing Practice | How To Type: Free typing practice, typing lessons and typing tests.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.how-to-type.com/typing-practice/quote/"
+         }, {
+            "date_added": "13288430407321610",
+            "date_last_used": "0",
+            "guid": "13de0341-cf77-43f8-b295-b5a7003cfb4f",
+            "id": "25",
+            "name": "sudhanshu joshi - sudhanshujoshi95 | HackerRank",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hackerrank.com/sudhanshujoshi95"
+         }, {
+            "date_added": "13289930060653565",
+            "date_last_used": "13327784893932476",
+            "guid": "b9182268-07bf-4c54-8a13-c125fa08194d",
+            "id": "26",
+            "name": "Classes",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/h"
+         }, {
+            "date_added": "13301266880864755",
+            "date_last_used": "0",
+            "guid": "ca16fbe8-f5f8-4c71-bbae-6241bde6768c",
+            "id": "27",
+            "name": "Practice | GeeksforGeeks | A computer science portal for geeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://practice.geeksforgeeks.org/batch/dsa-4/"
+         }, {
+            "date_added": "13301393989646335",
+            "date_last_used": "13332603396553341",
+            "guid": "3f5f1499-06a9-43df-95ce-978a41818d71",
+            "id": "28",
+            "name": "(99+) Feed | LinkedIn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/"
+         }, {
+            "date_added": "13301753745113432",
+            "date_last_used": "0",
+            "guid": "3b875bf1-9162-4f31-a8ed-28feac1f37b4",
+            "id": "29",
+            "name": "Competitive Programming | Participate & Learn | CodeChef",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.codechef.com/"
+         }, {
+            "date_added": "13302276701799335",
+            "date_last_used": "0",
+            "guid": "2482cb8e-7689-4068-b562-68a1375c33b1",
+            "id": "30",
+            "name": "Discord",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://discord.com/channels/@me"
+         }, {
+            "date_added": "13302548868168350",
+            "date_last_used": "0",
+            "guid": "5cac7473-64b0-4491-8f70-5558fd22cf78",
+            "id": "31",
+            "name": "Online CSS Editor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/online_css_editor.php"
+         }, {
+            "date_added": "13302706868943947",
+            "date_last_used": "0",
+            "guid": "1d74fce1-f0a0-4a84-b244-648c1a2838d9",
+            "id": "32",
+            "name": "Object Oriented Programming CheatSheet - by Love Babbar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw"
+         }, {
+            "date_added": "13303722881839847",
+            "date_last_used": "0",
+            "guid": "87875ef4-d59c-4c9d-a6d0-82cc9f4cbad8",
+            "id": "33",
+            "name": "C++ Inheritance - javatpoint",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.javatpoint.com/cpp-inheritance"
+         }, {
+            "date_added": "13304590751551112",
+            "date_last_used": "0",
+            "guid": "5498488c-8160-4163-aad9-2538e41f8cd7",
+            "id": "34",
+            "name": "GatePrep",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.classplusapp.com/newApp/store/home?tabCategoryId=2"
+         }, {
+            "date_added": "13306249179524016",
+            "date_last_used": "0",
+            "guid": "4ad8c2c1-d29b-4091-9aff-b2ae7f6010ea",
+            "id": "35",
+            "name": "Microprocessor - Overview",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/microprocessor/microprocessor_overview.htm"
+         }, {
+            "date_added": "13306249375474342",
+            "date_last_used": "0",
+            "guid": "294a0b72-36d4-43ee-9507-b57a9d958744",
+            "id": "36",
+            "name": "SEM - 3 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1OyZWpofSNatDdXt7KxSQNBE_F5NtucPn"
+         }, {
+            "date_added": "13309785742499146",
+            "date_last_used": "0",
+            "guid": "27ffe2bd-c53c-4b85-857b-8da812357320",
+            "id": "37",
+            "name": "JavaScriptOnline",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onecompiler.com/javascript/3yjeemvh2"
+         }, {
+            "date_added": "13309785758695566",
+            "date_last_used": "0",
+            "guid": "e0240d52-5c42-4bc2-aeec-e14c6099513a",
+            "id": "38",
+            "name": "CodeSandBox",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codesandbox.io/s/interesting-darkness-nt7fhn?file=/program.js"
+         }, {
+            "date_added": "13311155106042557",
+            "date_last_used": "0",
+            "guid": "cf65b7d4-9862-4ff2-af12-3abbed833042",
+            "id": "39",
+            "name": "Login | Slack",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://slack.com/signin#/workspaces"
+         }, {
+            "date_added": "13313512032761187",
+            "date_last_used": "13326094256194694",
+            "guid": "a0a8a96f-9ba4-4c02-a95c-ff9f9acd83b1",
+            "id": "40",
+            "name": "FlutLab.io - Flutter IDE online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://flutlab.io/editor/42d22057-1184-4994-8f5a-879817a9df70"
+         }, {
+            "date_added": "13313515977453303",
+            "date_last_used": "0",
+            "guid": "ac084981-390d-49db-974f-1adeb54c465d",
+            "id": "41",
+            "name": "flutter documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tutorialspoint.com/flutter/flutter_creating_simple_application_in_android_studio.htm"
+         }, {
+            "date_added": "13314572486798024",
+            "date_last_used": "0",
+            "guid": "62993aaf-14ff-4398-8f4b-d33c9e7ba035",
+            "id": "42",
+            "name": "Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/"
+         }, {
+            "date_added": "13314608991853892",
+            "date_last_used": "0",
+            "guid": "785552cb-9c27-43aa-b58e-fd3d12617a9f",
+            "id": "43",
+            "name": "Switch Hit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.amazon.in/minitv/tp/38f200a1-953a-414c-955a-cd21d9aba047"
+         }, {
+            "date_added": "13315503066505008",
+            "date_last_used": "13325606420300414",
+            "guid": "9b91a8f6-1310-4fed-8730-1bcd968019b1",
+            "id": "44",
+            "name": "AICTE Internship Enterprise Portal - Learning by doing. 1 Crore Internships by 2025",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://internship.aicte-india.org/module_student/edit_profile_user.php?task=plseupdateprofile"
+         }, {
+            "date_added": "13316626932450620",
+            "date_last_used": "0",
+            "guid": "6d5ce04b-091d-45c0-b4da-3c7962e7409b",
+            "id": "45",
+            "name": "FlutterBasics.drawio - diagrams.net",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.draw.io/index.html"
+         }, {
+            "date_added": "13317681504246497",
+            "date_last_used": "0",
+            "guid": "bdd0553c-659d-4798-8c76-c0d400373bc1",
+            "id": "46",
+            "name": "Watch Popular Web Originals, Web Series Online in Full HD on Sony LIV",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.sonyliv.com/custompage/originals-7853"
+         }, {
+            "date_added": "13318022431122490",
+            "date_last_used": "0",
+            "guid": "9291aae8-65b0-416e-802c-0638b91ddfb7",
+            "id": "47",
+            "name": "A2z Word Finder | Unscrambler | Scrabble Word Finder",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.a2zwordfinder.com/"
+         }, {
+            "date_added": "13319229012980115",
+            "date_last_used": "0",
+            "guid": "ab947f6a-b56d-4c75-b031-6c31c8132aa8",
+            "id": "48",
+            "name": "FINAL450.xlsx - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view"
+         }, {
+            "date_added": "13319303493638518",
+            "date_last_used": "0",
+            "guid": "5a04c8aa-cecc-4f21-8633-ad71a75f94c9",
+            "id": "49",
+            "name": "https://cplusplus.com/reference/vector/vector/",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cplusplus.com/reference/vector/vector/"
+         }, {
+            "date_added": "13321776274522189",
+            "date_last_used": "0",
+            "guid": "9e910502-51ab-49d4-8ab7-918f5090e357",
+            "id": "50",
+            "name": "Lean Six Sigma Black Belt - VarSigma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://varsigma.com/lean-six-sigma-black-belt/?utm_term=black%20belt%20certification%20six%20sigma&utm_campaign=Black+Belt&utm_source=bing&utm_medium=ppc&hsa_acc=9886765312&hsa_cam=305905242&hsa_grp=1361196637195100&hsa_ad=&hsa_src=o&hsa_tgt=kwd-85075539602113:loc-90&hsa_kw=black%20belt%20certification%20six%20sigma&hsa_mt=e&hsa_net=adwords&hsa_ver=3"
+         }, {
+            "date_added": "13321776339601081",
+            "date_last_used": "0",
+            "guid": "3da4cfc6-6373-4a02-8e8d-89f89cdd4b46",
+            "id": "51",
+            "name": "P&C Insurance Software & Technology | Guidewire",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.guidewire.com/"
+         }, {
+            "date_added": "13321818622541041",
+            "date_last_used": "0",
+            "guid": "79cfb135-9cac-498d-8fcf-c8a7ae704b32",
+            "id": "52",
+            "name": "Google Domains - Domain overview",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://domains.google.com/registrar/helpgeared.dev?devPromotion="
+         }, {
+            "date_added": "13321819826354913",
+            "date_last_used": "13333033446950223",
+            "guid": "2d0d8365-d4b5-44c0-8992-f016b029a093",
+            "id": "53",
+            "name": "AWS Management Console",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ap-south-1.console.aws.amazon.com/console/home?region=ap-south-1"
+         }, {
+            "date_added": "13321894695767730",
+            "date_last_used": "13323877496634839",
+            "guid": "a65f43ce-5300-43b9-8374-fda79d1337d4",
+            "id": "54",
+            "name": "index.html - Web app - Replit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://replit.com/@sujal123soni/Web-app#index.html"
+         }, {
+            "date_added": "13322064536697144",
+            "date_last_used": "13322065653876295",
+            "guid": "582e947f-1adc-4f1c-989a-a9ceb71e53fa",
+            "id": "55",
+            "name": "Getting started – My First Project – Google Cloud console",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://console.cloud.google.com/getting-started?project=infinite-facet-379213"
+         }, {
+            "date_added": "13323592117772013",
+            "date_last_used": "13332057908215939",
+            "guid": "6c79d459-9ab2-4275-be41-bdec54f01b86",
+            "id": "56",
+            "name": "Figma- DocApp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.figma.com/file/KyS8XiazDIyosNmqr0H7iQ/DocApp?node-id=0%3A1&t=LGOavofDwesQHz9L-0"
+         }, {
+            "date_added": "13327596449936749",
+            "date_last_used": "0",
+            "guid": "403ab641-a8fa-4a5c-bc55-ecf4c5f084cb",
+            "id": "57",
+            "name": "The Ultimate Github Collaboration Guide | by Jonathan Mines | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67"
+         }, {
+            "date_added": "13330206830262581",
+            "date_last_used": "0",
+            "guid": "4603b887-7a54-48e6-873b-f199e4ce2678",
+            "id": "58",
+            "name": "switch - JavaScript | MDN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch"
+         }, {
+            "date_added": "13328807303358143",
+            "date_last_used": "0",
+            "guid": "8d5da4b0-aafa-4544-8320-6a95468ff9c7",
+            "id": "59",
+            "name": "AWS Academy Cloud Foundations [22001]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://awsacademy.instructure.com/courses/22001"
+         }, {
+            "date_added": "13330808131352736",
+            "date_last_used": "13333873264548963",
+            "guid": "3e4b6258-ae9a-430c-b726-4da0e284bf2a",
+            "id": "60",
+            "name": "Course Modules: AWS Academy Cloud Architecting [31609]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://awsacademy.instructure.com/courses/31609/modules"
+         }, {
+            "date_added": "13330856475897956",
+            "date_last_used": "0",
+            "guid": "7ee67380-cc0d-45d1-b738-bb7de3af2f37",
+            "id": "61",
+            "name": "TCS iON Digital Learning Hub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learning.tcsionhub.in/iDH/India/Products_detail/7279634"
+         }, {
+            "date_added": "13330883822368747",
+            "date_last_used": "0",
+            "guid": "137daded-d41d-4e8b-a182-08f7f6f45a69",
+            "id": "62",
+            "name": "Flipkart GRiD 5.0 - Software Development Track by Flipkart! // Unstop (formerly Dare2Compete)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://unstop.com/hackathons/flipkart-grid-50-software-development-track-flipkart-grid-50-flipkart-686157"
+         }, {
+            "date_added": "13333186773381222",
+            "date_last_used": "0",
+            "guid": "c078be0a-a7ef-470b-b6d8-e3662f4e78c0",
+            "id": "63",
+            "name": "Principles of UX/UI Design - Introduction to UX and UI design - Week 1 | Coursera",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/principles-of-ux-ui-design/home/week/1"
+         }, {
+            "date_added": "13333925997823648",
+            "date_last_used": "0",
+            "guid": "c833a81f-f543-4824-a050-5199548e3ec3",
+            "id": "64",
+            "name": "Eduskills login",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://internshipadmin.eduskillsfoundation.org/"
+         }, {
+            "date_added": "13334313957318425",
+            "date_last_used": "0",
+            "guid": "27dab690-effc-41f4-b8f7-3dffc6d0c5af",
+            "id": "65",
+            "name": "Learn from top companies and set yourself apart",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.theforage.com/virtual-experience/3xnZEj9kfpoQKW885/accenture-uk/accenture-uk-technology-programme/the-software-development-lifecycle-sdlc?ref=cydhSEn8ajiRjsggy"
+         }, {
+            "date_added": "13334945836908384",
+            "date_last_used": "0",
+            "guid": "2dc4952c-8175-44c8-a7ec-7d069afb7f9a",
+            "id": "7",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13334945836906450",
+            "date_last_used": "0",
+            "guid": "01cba049-25b3-408d-a821-8a45447e9da1",
+            "id": "6",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         } ],
+         "date_added": "13334945836158675",
+         "date_last_used": "0",
+         "date_modified": "13334946944153201",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13334945836158677",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13334945836158683",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNm//5eJAQAAEgAgASoYcE42a1lnMndNVjVHNlFXN05scEJrQT09oAYMEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGI0MzZjZTI2LTdjYjAtNTc3My1iZjUxLWY1ZjYzMzY3YjJhORgAIAAoADDgkKO6szA4triEg+cvQLa4hIPnL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNGRkNzE0OTItOGNkYy01NGUzLWIyMWQtNDJmYThkOWYxODVmGAAgACgAMOCQo7qzMDjyroSD5y9A8q6Eg+cvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKvAQg/EqoBChx4WUdyQWtmdlZvcGltWXY2SUZNODk5MWhiaGs9EiRjMDc4YmUwYS1hN2VmLTQ3MGItYjZkOC1lMzY2MmY0ZTc4YzAYACACKAIwv+z+v5kxOIjEmPmSMUCQ2P6/mTFKHDFDTk5JRTZqV3owcVpPVnRHNk12ODF4NFJPST1aJiIk/////wAAAAlESitpZzNkYXhEOHdWd3Vjakt1cjRqVkQwMzg9ZSabvAASqQEIERKkAQocS2oxeEdoaDU1amY3NWNyUWpLYXJnN21BTkFVPRIkMzkwN2YyNGItZmJkZC00YWIzLThlZGMtNDgwMDAwMGJhZTU0GAAgAigCMK/s/r+ZMTii5LGauTBA/Nf+v5kxShxYNVFKdDlVb3VnVndXTHIyV1I3SWZBaW1NMXc9WiAiHv/8aEdDODBoanhnL2dKcGZNMHQwTUNVNFJCN2NJPWVdR4+DErABCCMSqwEKHDBEV2xNMHN6bjI4QnBZRkt3cWlzdERQYkYyZz0SJDRhZDhjMmMxLWQyOWItNDA5MS05YWZmLWIyYWU3ZjYwMTBlYRgAIAAoADCv7bqQrzA48e26kK8wQPHtupCvMEocdU82N0xaSmJ4R084aWM5M1lLc3NXSS9jQTNBPVonIiX/////AAAABe4wOVRmZlJ5QkpPayt4Qm9UMEhkMFdyYkNjb2s9ZQAAAAASrwEIGRKqAQocWWZsV1dJemR3b2ZFZSs0QU9ZUDJwcXk0QXVNPRIkMTNkZTAzNDEtY2Y3Ny00M2Y4LWIyOTUtYjVhNzAwM2NmYjRmGAAgAigCMLDs/r+ZMTjo8tib7C9Agtj+v5kxShxnSmptaDkxdU4wSXJvTjZNK1ZHeTFUTjlVUXc9WiYiJP////8AAAAETVFIaU5hS2RxMmZCMHVBVGNhOGZUY0NLblFFPWUtAffAEqgBCAsSowEKHFFqWXllRDhhWjNMakdvdUM4M08vMXlacks4UT0SJDU2ZWIxNDc3LTc3ZWYtNGQxNS04ODJiLTI2MmNhM2M0Y2YyNBgAIAIoAjC67P6/mTE4nf2Eg+cvQPjX/r+ZMUocYVl5WlBma1QwK2Q0bXZCZmF5eGZlZkhzT3BNPVofIh3+aFViZ3pEbkc5WnpoSm9HTDE1cTVzcWUrcTdJPWX6kd7bEqkBCA0SpAEKHEtjY0xqb0FQRUUya1ZRSEJ1WnZqTlB4aWJsWT0SJDExNjdhOGJiLTg2YzEtNDZjYy04ZDc3LTA5ODJlYjc5ZGRjNRgAIAIoAjCY9v6/mTE4sbaT+LQwQPnX/r+ZMUocV3MxTXJXc0hCV2lLT2hRQUJ0eGtSeXFiS21NPVogIh7/l0wxZjJrc1RMdTNhQ3laaFZ4WG9ZaUpEZ29IZz1lOPk5MxKoAQgMEqMBChwyRlpyQWROTDNxVSsyYnd0cW5maWl5VnZqU1E9EiRhMGQ1ZTg3Zi0wMjIyLTQxNWYtOTYzMy02NjI1ZmZiZDZiM2MYACACKAIwsez+v5kxOJf/hIPnL0D51/6/mTFKHDd4OFIzOTY0QWU4VWUzQTJHNFdEZ0pEUGppbz1aHyId/1d4blhhTWNmdDdMTzZpOFpPbFlURDJyMnlvcz1li6CM0RKpAQgPEqQBChxydlp3NlM4TFZmaUxDYmYyVjJXRWZGa2Myd3M9EiQ4MWE2OTQ2MS0wNDQxLTRhNmUtYjEyOC01ZTljMDQzZjZmY2EYACACKAIwsuz+v5kxOJmVrp7VMED61/6/mTFKHEI5YXU0NSttbEhncFQrNE9nRlZYQXYxQ2hDZz1aICIe/+l1SmJYWllsSmowN0NOVDRQd0ErQVIvamhwOXc9ZWhsrvcSsAEILRKrAQocQ3paakZzKzhQejNtNnpVL0NGOGRqTEpjVlpjPRIkNmQ1Y2UwNGItMDkxZC00NWMwLWI0ZGEtM2M3OTYyZTc0MDliGAAgAigCMJz2/r+ZMTiggOyg1TBAidj+v5kxShxMWnRPTzlIRzAvL0FEdXhQdFZIaE9oT1hnMTQ9WiciJf////8AAAAG93EwaVBiaW1IRU1LMmdoM2hHZ0xLYk00QjBLMD1lP1SpARKvAQggEqoBChxPc1ZjMG9CL0liTUV5VzZ1S2gwYTJRZnh1M289EiQxZDc0ZmNlMS1mMGEwLTRhODQtYjI0NC02NDhjMWEyODM4ZDkYACACKAIwyv/+v5kxOK3pnrOhMECF2P6/mTFKHFo5WlNrNjJUY08rM3Y0SzliTThoVDdyc09MMD1aJiIk/////wAAAAVadGRSUHF1b2NVQXU0TzhUK2pSR1ExQ1dmTFU9ZR2fJUQSsAEIGxKrAQocL255bTlKQTZTdEN1c2RaSjVQd1Z0eEpjeUdBPRIkY2ExNmZiZTgtZjVmOC00YzcxLWJiYWUtNjI0MWJkZTY3NjhjGAAgAigCMKn2/r+ZMTi768yEnDBAg9j+v5kxShxpL2N3bTNoUzZ5VkpSQWZJSmxmemJkZlVEbk09WiciJf////8AAAAE00ZqRVlRNGk1dHpMdmhEWGVKaTV2U0NuZXdBMD1lmvK0MBKpAQgQEqQBChxSSkFuV201ODdvTXhiY2QrMnBRcnRrcFJuT2M9EiQ2Mzc2MTkwZC00ZTliLTRiYTYtYTQ2YS04ZmU5YzY0NmQ0N2YYACACKAIws+z+v5kxONrzhIPnL0D71/6/mTFKHHlQTkJiRWUvOXI4MjVOMmp5eG1oc0dVNTlQYz1aICIe//tEM0pyTWtoTzZaTjRKaWRuTEJSMXBkaTBrUms9ZcxDJBsSqAEICBKjAQocS2pmTS9aQzlrak9qWWphVmJUb2dVYWJjeUlFPRIkMTliZDEwNWEtZWZkOC00MmU4LTkwMDgtZTM3NTE0MjE4ZWY2GAAgAigCMLXs/r+ZMTi6vISD5y9A9tf+v5kxShxlekR1eUdkcjF3ZTlCTEsvQzR6OHAzdlVza1E9Wh8iHaxFV0s2Z1U0MnAxUFM4aTRLV3ZmYkxLdHVyUE09ZZv8oSQSqwEIGBKmAQocSXlGelg2amViRXU5OFJiK0Q5NkQvY1VPM0JZPRIkYTQwMzczZjAtZjY2ZS00MjYwLTk2NGEtYWMyMjFmOTdiMGZjGAAgAigCMNf//r+ZMTir+sK16C9Agdj+v5kxShxNSzZYVFhCcG1lZ3g2VDRVanVBVVpPd2d1NEE9WiIiIP////srangvU3FIYUJkek8vL0JTeUJteEZLRDlnTFk9ZSrv9IQSqQEIEhKkAQocWHBwalRJTG9BZk1hcENxVHFkRUx4c1V3VURVPRIkY2MwMzEwM2EtOTNlMi00NGVhLWE1NjItODZhOTY5Mjk1ODhlGAAgAigCMKL2/r+ZMTj82ISD5y9A/Nf+v5kxShxKRjNoOTFQNDg4eHFEVHg3djFFVnNkTGUrTE09WiAiHv/8c1M1Qkh6RDFWT1RKZVB1MDVBSGJ5QnJndHBjPWXq8IzrEq8BCDESqgEKHGQwd0V3em5UMnZ5bzdLamIya05lbzBtMkkyMD0SJDVhMDRjOGFhLWNlY2MtNGYyMS04NjMzLWFkNzFhNzVmOTRjORgAIAIoAjC27P6/mTE4xbWQnd8wQIvY/r+ZMUocNWpZV3hYTlZZTHU3bXRtdUpxbURHb0xYYzhJPVomIiT/////AAAAB0I4dGNlMG5sRkJId3dFNlVGSFlkekxRU2JCST1l717ULBKoAQgKEqMBChwzRWE1MUdLUVB6QjdDWTBsZHRybjA1bXI5SVE9EiQwZjI4NzVhYi0wYzFhLTRiNmItYWVjYy03MTc5ODAyMDQyZDcYACACKAIwy//+v5kxOIbbhIPnL0D31/6/mTFKHC9SS0p5ZXF4RnNBdEh2UVNWRkZYTCt0UEJxZz1aHyId/mdYZjNOOUFVV2VrYnlFN3JxTzJ4QmJRcG9uVT1lkAlVyRKqAQgWEqUBChw1dmpkcms2emk0Tk00Z2NIVm5CNDg1YWtkcGs9EiRmMjBhODkzMi1kMmMxLTRjNTktYTU4Yi1kN2RlZTI2NzBmN2EYACACKAIwt+z+v5kxOMafhYPnL0CA2P6/mTFKHHdCMHl6UEh1YlhIN2oyZWZkZFlvSjFlOTBoUT1aISIf////b1d6dlZEdmptclZsdWpLUUR1MjA2djY4aE8wPWXGH+7wEqkBCBMSpAEKHHlCWTFFN0VTc3Y5QTlOZldKWXdWVkVMVWZNbz0SJDI2Nzc2Mzk0LTllYWYtNDhjMS1iNzY1LWFlYzliMDRkMjg5ZBgAIAIoAjC97P6/mTE41fWEg+cvQP3X/r+ZMUocampHb2tiOG9UTnowb3F5Q3NoWkJHL0RkbjIwPVogIh7//Ww5K091RGx5R0U2dlA5dG5OcEtmSXpRdlhxZz1lYBHXShKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ2Y2M3OTc4YS1iMDg1LTUwZjItYjg1Yi03ZTVjODA0YzM3NjEYACAAKAAw4JCjurMwOL+2hIPnL0C/toSD5y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqsBCBcSpgEKHHFxTmFGSU4wQ2Fzc2lOOGQxY1phZGpwZDdzST0SJGFiODA3NzliLWM0NDItNDg0NS04MTE2LTZmYzg5MTk3ZjljNhgAIAIoAjCZ9v6/mTE488uHg+cvQIHY/r+ZMUocbjMrbnZXZFRrckhoa0w4UWc0M3N3VzJIVUNNPVoiIiD///+3Q3JxTWNkVlA5dkJwOTRGMWlYK05CMUR0SFJ3PWVq8GDPErABCBwSqwEKHFhTajF0V1RBVDIvbW1xSlVpNkdiR2cxRVNRND0SJDNmNWYxNDk5LTA2YTktNDNkZi05NWNlLTk3OGE0MTgxOGQ3MRgAIAIoAjC+7P6/mTE49oebwZwwQIPY/r+ZMUocbGEvWmY1K2MrYmNTd29YWEhzYXRFQmE3d0JFPVonIiX/////AAAABOlWcXBweHdieEFIaWtXdXhYa2kwN1dsczZtVTQ9ZUVNStESsAEIGhKrAQocT3p6dHkvalNDY1ZHMkp4NVBUZHNybHdLeXJBPRIkYjkxODIyNjgtMDdiZi00YzU0LThhMTMtYzEyNWZhMDgxOTRkGAAgAigCMMHs/r+ZMTijiuTm8S9Agtj+v5kxShxrdXBTQXdtWUJYNzBsaDZPM1ZQSnc0ZG5LNU09WiciJf////8AAAAEpjI2ZURzbjhlbHRQZkhYaEdJNk5oQ0xlbzh1MD1lC1FsZxKwAQg7EqsBChxXTVc2STBYNytocmJvTHJSeEZMNHB5VEJLTXc9EiQ4ZDVkYTRiMC1hYWZhLTQ1NDQtODMyMC02YTk1NDY4ZmY5YzcYACACKAIwm/b+v5kxONHk8tCCMUCO2P6/mTFKHDhXZVpNZ2E5eER1WmJHL3dTQTJIZTBXbDlVZz1aJyIl/////wAAAAi0TTd5NzVpSWlyUjF4ZjV0aVBlK0s1eUlVK0V3PWUdqfK1EqgBCAkSowEKHEptK2t5RjBaTDkyZHVXeGJDd2V5cFViT1hnZz0SJDA3Njg1NTI5LWRmZDAtNDBlZi05YzlkLWRiNjU5ZmNhZmM5MhgAIAIoAjCa9v6/mTE46NSEg+cvQPfX/r+ZMUocaklXRzltOVF3ZGUzY1RGdGN4VTBMQVZURHhJPVofIh31T0dHUUtRallrUlhtME43amliVDgwRkdhV1N3PWWhsiF9EqoBCBUSpQEKHE1xSGtGallwSnh6QlNYaGhYS2RwZUEzUzhQND0SJDFhYmMzYzc5LWZmODYtNDllYy04YTc5LTA5ZTZlYTY1NThiMBgAIAIoAjC57P6/mTE4zI2Fg+cvQP7X/r+ZMUocWHRWUjZ4QVpNZ1UwMUNtbnczUXVTWE9rM3VNPVohIh////9DMWNhdnA2SU1NTUFxeEo4NDJBcVlKZy92NXM9ZYpwmyUSsAEIJBKrAQocbzF2dExVMEFtS2pFb1lxM1k5a1NpcXRYYXJ3PRIkMjk0YTBiNzItMzZkNC00M2VlLTk1MDctYjU3YTlkOTU4NzQ0GAAgACgAMK/tupCvMDjf7rqQrzBA3+66kK8wShxPZTEzUHc4MWJ2VmdrQlVqVVlQY0t6SnpXL289WiciJf////8AAAAF9zROSndhaVovNmVvSEEvYWtVdU9JeUhpUmZyVT1lAAAAABKvAQgoEqoBChxOS2wwRGs5ZUF5VEREUjJ1Qk9jQXNQbUVmdXM9EiRhMGE4YTk2Zi05YmE0LTRjMDItYTk1Yy1mZjlmOWFjZDgzYjEYACACKAIwu+z+v5kxOOrOxdPJMECH2P6/mTFKHDdHUFpZSlNTOTFpL3Mvd1Zmc2ZoaUwwT2JLMD1aJiIk/////wAAAAZtcWZrY0lrTU5rWmtNRC9LL1BIb3ZTSXFvQTg9ZSUNECESqQEIDhKkAQocV1F0RXd6cVdSMExUdmhQbllPTWlvSmFVV0swPRIkZTA5ZmU4MjYtODM0MC00MTA4LTk3ZGUtNDdlNmJiY2ZiYjFjGAAgAigCMMz//r+ZMTjA54SD5y9A+tf+v5kxShx6ZW5LY3Y2OWM3ZDFGUTBLK2tiUXpNbktyYUk9WiAiHv/YQUFQUmZ0Y0tYMzlrcjlZMHZGSmE2SWJJN2JVPWWEpjEyErABCB0SqwEKHFBrbW1NMkhGOWZQR0JoK05aNE50dW9meTVZOD0SJDNiODc1YmYxLTkxNjItNGYzMS1hOGVkLTI4ZmVhYzFmMzdiNBgAIAIoAjCd9v6/mTE43NLg7J0wQIPY/r+ZMUocWnZyTkhjSG5GeWlOZytqcjNnbUo1Mm52cERJPVonIiX/////AAAABPRsVFN1L2owY2xxYldpbUFPbm9rNWp4Z0JoRmM9ZU9S0rMSsAEIJRKrAQocd0JLNFF1Z3VVWXdjaG04UU9rM1h0dEd2MTFRPRIkMjdmZmUyYmQtYzUzYy00Yjg1LTg1N2ItOGRhODEyMzU3MzIwGAAgAigCMKH2/r+ZMTiX+9riuzBAhtj+v5kxShwzTGJPU1JESUlJV0t3ckw0WUxTSzRlNnRSems9WiciJf////8AAAAF+zBiaGhZVDBNQ2gvS05kZnJ5cFVUSXh5elp1cz1l6pzd2hKwAQgzEqsBChxJazNhb2RsQStaUFpnNXpaTWZFS3JQMm9aY0U9EiQzZGE0Y2ZjNi02MzczLTRhMDItOGU4ZC04OWY4OWNkZDRiNDYYACACKAIwpvb+v5kxONr6orjoMECM2P6/mTFKHGhFMlZGOUJlN0RwanlUWEU3VnprSVpMMmFSdz1aJyIl/////wAAAAepUGNzdXhJOUpHYWgxUW5mTkFmQUMyZVZuV2tFPWUmoEbDEqoBCBQSpQEKHE4zNXVpOHN0NXl0QVFkQ21vL2VnVmp3N1JtZz0SJGZiYTU4NzM4LTZkOGMtNDdlMS1iOGFjLWY2NzQ1MzZhYjNhNhgAIAAoADDS36DfoTA4oYGFg+cvQKGBhYPnL0ocSHhTN28wNURBaDllLzNkWjl6dEk0eTZwUjlFPVohIh////drQ1lCVVpuNE04c0h0MWp1aXBtNW5qQTBFTlU9ZQAAAAASrwEIKRKqAQocMm9EaFZ1RGo1ckNzVHRLSnZkNkJwUlFldmVBPRIkYWMwODQ5ODEtMzkwZC00OWRiLTk3NGYtMWFkZWI1NGM0NjVkGAAgAigCMLjs/r+ZMTiesrbVyTBAiNj+v5kxShxrMjdkQkxtZy9yaG9xMS9PbGZSY2xtM0pvRGs9WiYiJP////8AAAAGdExBb1NrRFN3Qi9OQldzQndoT3lka0tLVTB3PWVln+k8ErABCC8SqwEKHFR4RUdwaHZCVWxjdnpacURXQTdLdDlNL0RIMD0SJDkyOTFhYWU4LTY1YjAtNDE2ZS04MDJjLTA2MzhiOTFkZGZiNxgAIAIoAjCj9v6/mTE4gL2iutowQIrY/r+ZMUocQWxKWlppYzJWbFdqdVpXQ2Fub00xd2xJd2o4PVonIiX/////AAAABv1qRGdDVWpCUlFtS2R4ZVZ2VlFCZXZFK0FGVW89ZRlk/Z8SsAEIHhKrAQocZUowMlNoVVNGZUdrY3JWcGhqS3F0QUZUSGFNPRIkMjQ4MmNiOGUtNzY4OS00MDY4LWI1NjItNjhhMTM3NWMzM2IxGAAgAigCMLzs/r+ZMTjvto/mnzBAhNj+v5kxShxlbDhYRnZGNEJPWVU2MU9DcGRHVDNsRWxmNVU9WiciJf////8AAAAE+jV2ZTZpZGhBY2lZM0dQZlNveTlVSFJzVVE1dz1lCHNhfBKwAQguEqsBChxkRUdrNUE0cEJuWEtUQ3pnajBQWGhWZjZZNms9EiRiZGQwNTUzYy02NTlkLTQ3OTgtOGM3Ni1jMGQ0MDAzNzNiYzEYACACKAIwp/b+v5kxOOfe2ZfZMECK2P6/mTFKHHVoeVFxWHorQmE3cEJwTGRtalJZZGl2dFlyST1aJyIl/////wAAAAb7NnltV1h2ZnFKWktDWTVwVmpKZ2R4WTdBazVvPWXDBhE2ErABCCoSqwEKHHJPc2lLNWFYQ3Z4ZnZ3bzhYWG5KYzdLbVBEQT0SJDYyOTkzYWFmLTE0ZmYtNDM5OC04ZjRiLWQzM2M5ZTdiYTAzNRgAIAIoAjDO//6/mTE4/9Oazc0wQIjY/r+ZMUocQmFXaG43eks1cjFpTWlJZjZXdmhuTm10aFY0PVonIiX/////AAAABrowL2tldmJaUGsvTkkxT1NvSlZtQ1Q4cmlsTk09ZVuFQ2MSsAEIKxKrAQocY1BqQXFrU2NXNHpLYmFyM0xnZGlkTktiNTd3PRIkNzg1NTUyY2ItOWMyNy00M2FhLWI1OGUtZmQzZDEyNjE3YTlmGAAgAigCMM///r+ZMTil387ezTBAiNj+v5kxShxrWmIyN21BM2hUNlpVaWxFcGYra0pLNGtFMU09WiciJf////8AAAAG3W10QTFuUDlHOHlLTW5heVI3bHFxMGJpeWoxVT1lw3421BKwAQgwEqsBChxsZ0FSdVA5cXBYaGFpQy9JdVVSZGZQTlFIdkE9EiRhYjk0N2Y2YS1iNTZkLTRjNzUtYjAzMS02YzMxYzgxMzJhYTgYACACKAIwqPb+v5kxOKC3zvneMECL2P6/mTFKHHJmZ2h4Mkp1K0NmS2xiUUMzUzZvVGN6dEVBdz1aJyIl/////wAAAAb+UWZOdi9hbk1Bbm9OSWN2L0VyTE9xeTBZdFRVPWW6CixRErABCCYSqwEKHE1SWUFTVnRmQzRUenU3cGN0bkczeU9NY1U0RT0SJGUwMjQwZDUyLTVjNDItNGJjMi1hZWVjLWUxNGM2MDk5NTEzYRgAIAIoAjCq9v6/mTE4pfvb4rswQIbY/r+ZMUocTGhxaDF5Y2lleC9DempvbW5PTW5uZjFITVRFPVonIiX/////AAAABf0zODN5NEpZaEtqa0k3bHpIYzVsMEd0bHo5VEE9ZaYaOOISsAEIIhKrAQocQUpCTEU0QWZjOWdabmkrSEZMQ2tuUHp5N0M4PRIkNTQ5ODQ4OGMtODE2MC00MTYzLWFhZDktMjUzOGU0MWY4Y2Q3GAAgAigCMMLs/r+ZMTjZ8cW1qDBAhtj+v5kxShxqYXVtYUs0SkF0Q1FoMTgzRGNaQVhJYlhQcUE9WiciJf////8AAAAF3UtPRkxZdWhGSjhRSmxCY1YyWEhONkl4NG5zZz1lrbStrhKwAQg6EqsBChxaaXNQUDJ1aEVHVGxPQms2czFCU2ViVFc2aTQ9EiQ0NjAzYjg4Ny03YTU0LTQ4ZTYtODczYi1mMTk5ZTRjZTI2NzgYACACKAIw0//+v5kxOLmbn+yHMUCO2P6/mTFKHDRsWmVUb0dBUG9oVU5RM09RYlR0OS9PK2hDaz1aJyIl/////wAAAAf+cnJvYzVsTkRYRUM2S1lLY0ZVZEN2b084VkFZPWVtoJ/1ErABCEESqwEKHHdkV2JZRnI1K2c4aCtGOU1Kb2NPWk5DQTNDMD0SJDI3ZGFiNjkwLWVmZmMtNDFmNC1iOGY3LTNkZmZjNmQwYzVhZhgAIAIoAjC07P6/mTE4lqfWkpcxQJHY/r+ZMUocajRXN05MZjZNK1VEUDZzdzliYzhrcXFLZTVJPVonIiX/////AAAACdFTQ2QwNDRrcmNJaXV5bkY1Qmtxb0ZZdmVaUnc9ZSuQlnESsAEINRKrAQocY1BIbFNaWmJPYXJFZDNXSjVoSVM4ckd6MTFzPRIkMmQwZDgzNjUtZDRiNS00NGMwLTg5OTItZjAxNmIwMjlhMDkzGAAgAigCMND//r+ZMTiAlIHN6DBAjNj+v5kxShxaQzQ4OGp1YWZmOUJjcXVkOEFRbUpWbitnUU09WiciJf////8AAAAH6nZOYUtTY0xSdWFDYnNreE1MdWpib0lVSWQ1QT1lm0igVhKwAQg5EqsBChxyQUZIa2dwSzdUV1RaVHg4bGV1Z0wzcHhMM2M9EiQ0MDNhYjY0MS1hOGZhLTRhNWMtYmM1NS1lY2Y0YzVmMDg0Y2IYACACKAIw0f/+v5kxOJmhwo/+MECO2P6/mTFKHFFvS2ZFbmY5a1VNYjREcGl2WjhKZWRaVkpUQT1aJyIl/////wAAAAf+TjVrNzRJa2Q1OHdYUUY3SGZqY0NPMGpERnYwPWVbhUNjErABCDgSqwEKHFlWSHRqdGMzR1RUUXphWFBPS3U4cnBOalBVWT0SJDZjNzlkNDU5LTlhYjItNDI3NS1iZTQxLWJkZWM1NGYwMWI4NhgAIAIoAjDN//6/mTE4oaCNmu8wQI3Y/r+ZMUocaDllakpFOWVINlhIaTRPeXhDZno4NVkzaWl3PVonIiX/////AAAAB/14MEVLZnN1ZVZjNFBZWFZUN29OUmN0T1g2clU9ZQfZF1QSrwEIMhKqAQocQUhVenBiYTVTRnJGb3BKMFFWVFNzL1NCL3RnPRIkOWU5MTA1MDItNTFhYi00OWQ0LThhYjctOTE4ZjUwOTBlMzU3GAAgAigCMKv2/r+ZMTia/5646DBAi9j+v5kxShxsMWpidGJaVHJNWkUxVTYycWJlUTBSa25mb009WiYiJP////8AAAAHU1V6SGo1TThkVFoyMjQrWlRGZFcxaWZ1LzdFPWXyce+LErABCB8SqwEKHDBMNHhFMFl1eTZyZDhHcnE3S2dMZGJ5YTFjST0SJDVjYWM3NDczLTY0YjAtNDQ5MS04ZjcwLTU1NThmZDIyY2Y3OBgAIAIoAjCe9v6/mTE47Z3z56AwQIXY/r+ZMUocZHU4YjJXeDFEUlNCMEFOZUxnTmZaRCtrOHQwPVonIiX/////AAAABP0yVzhlc1FpZjJCbWJqN2hUcUw4VnRkeDFyenM9ZfejyVwSsAEIPRKrAQocNUZjanRieGdNN2FmU1V5V0t2L3NHVzdia1pJPRIkN2VlNjczODAtY2MwZC00NWQxLWI3MzgtYmI3ZGUzYWYyZjM3GAAgAigCMNb//r+ZMTint4KiijFAj9j+v5kxShxlcVlrbVA1WllPc28zajROVXlhTGxnQythODQ9WiciJf////8AAAAI/WFzRXFUdmI1L3UrVVVlZll3YkZhWHRHbFNGaz1lQ93texKwAQg+EqsBChxXQkVTd1VyRFF4MDkraFl2ZjlwMlhnRE90Rnc9EiQxMzdkYWRlZC1kNDFkLTRlOGItYTE4Mi0wOGY3ZjZmNDVhNjkYACACKAIwwOz+v5kxOMXIh6+KMUCP2P6/mTFKHEtZYThFaEp5T0YyZkQ3eTlxSURxZ2M1amZITT1aJyIl/////wAAAAj+bzFVcFh0NXpoazJ3WVh4TWtUczVJRFpQNitrPWX5/vp0ErABCDQSqwEKHHRuL2V6dDBjTFlhaGpISENZUThHYkJ2ME9YZz0SJDc5Y2ZiMTM1LTljYWMtNDk4ZC04ZmNmLWM4YTdhZTcwNGIzMhgAIAIoAjCl9v6/mTE4j9e3zOgwQIzY/r+ZMUocUmJZb3lUcTg3ckVsVWJzZjQwVEFoZzFsNGdvPVonIiX/////AAAAB9RXSk9ESWh3TjVaam53MWVXQUdjeTVJSW80clU9ZRLZeqoSsAEINhKrAQocMWpkMHVXZkkvN2hVSFQwcGliU2xScW9rUjg4PRIkYTY1ZjQzY2UtNTMwMC00M2I5LTgzNzQtZmRhNzlkMTMzN2Q0GAAgAigCMNT//r+ZMTj04Nrw6DBAjdj+v5kxShx2S1hRZnc3cjRRUWEwcTgrVXZlVjgzcUMxUTA9WiciJf////8AAAAH9XlobzhzVFRtQld6NVp5b3BPYVhJUFZ5RG9xOD1l/JvE8xKvAQghEqoBChxNQ3Q5eHljWXpHRDB1T2pzSS9nMnJpaVhaek09EiQ4Nzg3NWVmNC1kNTljLTRjOWQtYTZkMC04MmNjOWY0Y2JhZDgYACACKAIwn/b+v5kxOLCp25elMECF2P6/mTFKHFM3MVFiTlBKSEIzenlKZ2RTd0tkWTZtbGREbz1aJiIk/////wAAAAV2VXhqSmpVRnYxZXdZb1VHQnYxdkJSK3BrdHc9ZWOPrjsSsAEIJxKrAQocaFpZNUtiQjR4VFN3OFEvQUl3UmdyTWF2V0ZRPRIkY2Y2NWI3ZDQtOTg2Mi00ZmYyLWFmMTItM2FiYmVkODMzMDQyGAAgAigCMKD2/r+ZMTiwpdbvwDBAh9j+v5kxShxrVXdCN2FsQjNCaVJINFF1STdWWTFRT0MrTzQ9WiciJf////8AAAAF/i9jVUczcDVTS29vc1MyUm1IR0ljaDlXbDFMST1lKKP8nRKwAQgsEqsBChxpWnlJcDJvQzB3bFhGK3N4RFcyWElROU9aNTA9EiQ5YjkxYThmNi0xMzEwLTRmZWQtODczMC0xYmNkOTY4MDE5YjEYACACKAIwpPb+v5kxOOjM+IjRMECJ2P6/mTFKHEU3WFRLaWgyd3BMTEZ5dnF0bGZyKzRpRjRqYz1aJyIl/////wAAAAbuUHV3QWZ1NkU3czU3Uzg4SHVJSWJuUDlMS3drPWX8mXQzErABCEASqwEKHGV0bzBtN2MwQ1hrN3Z5TkZsNlRFWXRqN1Vmdz0SJGM4MzNhODFmLWY1NDMtNDgyNC1hMDUwLTUxOTk1NDhlM2VjMxgAIAIoAjDY//6/mTE425/X2ZUxQJHY/r+ZMUocaSsyN0dsZDl6ayt5RFlMcVRVZmxhelNsVGRNPVonIiX/////AAAACaI3MEE3SnJEZTBzQ2dLSmhzWUtFOVdVSExxQ0k9ZSUbWpsSsAEINxKrAQocS1UvYUhVaFlZeFRRZCtFUUQzUCtiZTc3c3ZrPRIkNTgyZTk0N2YtMWFkYy00ZjFjLTk4OWEtYTljZWI3MWU1M2ZhGAAgAigCMNL//r+ZMTjkiNnB6TBAjdj+v5kxShxTS3p6TGdNdG1YWk1iMy9xd0diUzBxVC9QK0E9WiciJf////8AAAAH+nZzT3dPaHhyZC9GNmpzcE04SFg4TGZjUkUwND1lfC8EdxKwAQg8EqsBChxoc3k1SGM2MFBUMUw3WEVFaTRGRkl6UEhUckk9EiQzZTRiNjI1OC1hZTlhLTQzMGMtYjcyNi00ZGEwZTI4NGJmMmEYACACKAIw1f/+v5kxOOTf+4qKMUCP2P6/mTFKHDBFVTh2allwM3VkUWYxN0hjTHdJanN2Z0twUT1aJyIl/////wAAAAj7NzVyVjVDM1orVk8zTll2VHVpZU5vZUxjSU40PWUdqfK1MAA4AA==",
+   "version": 1
+}
